@@ -1,9 +1,8 @@
-NOTE: This is the starter branch for this project, see the main branch if you are looking for the final code.
+NOTE: This is the final code for this blog starter. If you're following the blog you can get the starter code from the `starter` branch.
 
-## NextJs 13 Blog Starter 
+## NextJs 13 Blog Starter
 
 ```bash
 npm install
-
 npm run dev
 ```
